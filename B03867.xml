@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties most gracious speech to both Houses of Parliament on Munday the 9th of November, 1685.</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03867</idno>
+            <idno type="STC">Wing J231</idno>
+            <idno type="STC">ESTC R178851</idno>
+            <idno type="EEBO-CITATION">53981535</idno>
+            <idno type="OCLC">ocm 53981535</idno>
+            <idno type="VID">180257</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180257)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2824:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties most gracious speech to both Houses of Parliament on Munday the 9th of November, 1685.</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill deceas'd, and by Henry Hills, and Thomas Newcomb ;</publisher>
+                  <publisher>by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <pubPlace>and re-printed at Edinburgh :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette: royal arms.</note>
+                  <note>Initial letter.</note>
+                  <note>"Published by his Majesties command".</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  James II, 1685-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180257:1"/>
+            <!-- PDF PAGE 7 -->
+            <p>His Majeſties MOST GRACIOUS SPEECH To both Houſes of PARLIAMENT, On <hi>Munday</hi> the 9th of <hi>November,</hi> 1685.</p>
+            <p>
+               <hi>Publiſhed by His Majeſties Command.</hi>
+            </p>
+            <figure>
+               <p>I<hi rend="sup">7</hi> R</p>
+               <q>DIEV ET MON DROIT</q>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>John Bill</hi> deceas'd; And by <hi>Henry Hills,</hi> and <hi>Thomas Newcomb:</hi> And Re-printed at <hi>EDIN<g ref="char:EOLhyphen"/>B<g ref="char:V">Ʋ</g>RGH,</hi> by the Heir of <hi>Andrew Anderſon,</hi> Printer to the KING'S moſt Excellent MAJESTY, 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:180257:2"/>
+            <!-- PDF PAGE 8 -->
+            <pb n="3" facs="tcp:180257:2"/>
+            <!-- PDF PAGE 8 -->
+            <head>His Majeſties MOST GRACIOUS SPEECH To both Houſes of PARLIAMENT, On <date>
+                  <hi>Munday</hi> the 9th of <hi>November,</hi> 1685.</date>
+            </head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Fter the Storm that ſeemed to be coming upon Us when We part<g ref="char:EOLhyphen"/>ed laſt, I am glad to Meet you all again in ſo great Peace and Quietneſs, God Almighty be Praiſ<g ref="char:EOLhyphen"/>ed, by whoſe Bleſſing that Rebel<g ref="char:EOLhyphen"/>lion was Suppreſt: But when I Reflect what an inconſiderable Number of Men began it, and how long they carried it on with<g ref="char:EOLhyphen"/>out any Oppoſition, I hope eve<g ref="char:EOLhyphen"/>ry body will be convinced that the <hi>Militia,</hi> which hath hitherto been ſo much depended on, is not ſufficient for ſuch Occaſions; And that there is nothing but a good Force of well Diſciplined Troops in conſtant Pay, that can Defend Us from ſuch as either at Home or Abroad are diſpoſed to Diſturb Us. And in truth, My Concern for the Peace and Quiet of My Sub<g ref="char:EOLhyphen"/>jects, as well as for the Safety of the Government, made Me think it neceſſary to increaſe the Number to the Proportion I have done; This I owed as well to the Honour as to the Security of the Nati<g ref="char:EOLhyphen"/>on, whoſe Reputation was ſo infinitely Expoſed to all Our Neigh<g ref="char:EOLhyphen"/>bours, by having layen Open to this late wretched Attempt, that it is not to be Repair'd without keeping ſuch a Body of Men on foot, that none may ever have the Thoughts again of finding Us ſo miſe<g ref="char:EOLhyphen"/>rably unprovided; It is for the Support of this Great Charge which is now more than Double to what it was, that I ask your Aſſiſtance in giving Me a Supply anſwerable to the Expence it brings along with it; And I cannot doubt but what I have Begun ſo much for the Ho<g ref="char:EOLhyphen"/>nour
+<pb n="4" facs="tcp:180257:3"/>
+               <!-- PDF PAGE 9 -->
+and Defence of the Government, will be Continued by you with all the Cheerfulneſs and Readineſs that is Requiſite for a Work of ſo Great Importance.</p>
+            <p>Let no man take Exceptions that there are ſome Officers in the Ar<g ref="char:EOLhyphen"/>my not Qualified according to the late Teſts, for their Imployments; The Gentlemen I muſt tell you are moſt of them well known to Me, and having formerly Served with Me in ſeveral Occaſions, and al<g ref="char:EOLhyphen"/>wayes approved the Loyalty of their Principles by their Practice, I think them fit now to be Imployed under Me, and will deal plainly with you, that after having had the Benefit of their Services in ſuch time of need and danger, I will neither Expoſe them to diſgrace, nor my Self to the want of them, if there ſhould be another Rebellion to make them neceſſary to Me.</p>
+            <p>I am afraid ſome Men may be ſo wicked to hope and expect, that a Difference may happen between you and Me, upon this Occaſion, but when you conſider what Advantages have ariſen to Us in a few Months, by the good underſtanding We have hitherto had, what wonderful Effects it hath already produced in the change of the whole Scene of Affairs abroad, ſo much more to the Honour of the Nation, and the Figure it ought to make in the World, and that nothing can hinder a further Progreſs in this way to all Our Satisfactions, but Fears and Jealouſies amongſt Our Selves: I will not Apprehend that ſuch a Misfortune can befall Us as a Diviſion, or but a Coldneſs be<g ref="char:EOLhyphen"/>tween Me and You; Nor that any thing can ſhake you in your Stea<g ref="char:EOLhyphen"/>dineſs and Loyalty to Me, who by Gods Bleſſing will make you all Returns of Kindneſs and Protection; with a Reſolution to Venture even My own Life, in the Defence of the true Intereſt of this King<g ref="char:EOLhyphen"/>dom.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
